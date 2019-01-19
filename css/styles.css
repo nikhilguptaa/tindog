@@ -106,3 +106,12 @@ h2{
 .pricing-col{
   padding: 2% 3%;
 }
+@media (max-width: 1028px ) {
+  .title-img{
+    position: static;
+    transform: rotate(0);
+  }
+  #title{
+    text-align: center;
+  }
+}
